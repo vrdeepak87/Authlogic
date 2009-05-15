@@ -1,0 +1,7 @@
+.DS\_Store
+*.sw?
+log/*.log
+tmp/**/*
+doc/api
+doc/app
+**/*~
